@@ -5,6 +5,9 @@ The organization has recently experienced the most employee attrition. The compa
 # 📝 Description
 We used Power BI as a data visualization tool in this project to construct a dashboard for an organization.
 
+ # Dataset
+
+ • Dataset link : https://github.com/Nilesh098/-HR-Data-Analysis-/blob/main/-HR-Employee-Attrition.csv
 
 
 

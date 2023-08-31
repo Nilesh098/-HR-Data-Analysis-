@@ -7,6 +7,8 @@ We used Power BI as a data visualization tool in this project to construct a da
 
 
 
+
+
 # 🎯 Objective
 
 To analyze the factors of Attrition and give a suitable solution to the company.

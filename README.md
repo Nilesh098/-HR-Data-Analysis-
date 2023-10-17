@@ -1,5 +1,7 @@
 # -HR-Data-Analysis-
 
+![](https://github.com/Nilesh098/-HR-Data-Analysis-/blob/main/HR%20data%20analysis_pages-to-jpg-0001.jpg)
+
 The organization has recently experienced the most employee attrition. The company employed you as an external  data analyst. The goal is to examine company data and identify reasons that contribute to attrition as well as more insightful information that will aid in future hiring. 
 
 # 📝 Description
